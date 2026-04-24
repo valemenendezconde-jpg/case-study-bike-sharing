@@ -69,7 +69,9 @@ It includes:
 ---
 
 ## 📸 Dashboard
-![Dashboard](images/dashboard.png)
+This dashboard highlights key behavioral differences between casual riders and members.
+
+dashboard.png
 
 ---
 
@@ -109,7 +111,7 @@ These strategies can:
 -🔎 SQL Analysis
 Check the full SQL queries used in this project:  
 👉 [View SQL Queries](sql/queries.sql)
-- 📁 `images/` → Dashboard visuals
+- 📁 `images/` → dashboard.png
 
 ---
 
