@@ -71,9 +71,7 @@ It includes:
 ## 📸 Dashboard
 This dashboard highlights key behavioral differences between casual riders and members.
 
-images/dashboard.png
-
-![Bike Sharing Dashboard](images/dashboard.png)
+![Bike Sharing Dashboard](dashboard.png)
 
 ---
 
@@ -113,7 +111,7 @@ These strategies can:
 -🔎 SQL Analysis
 Check the full SQL queries used in this project:  
 👉 [View SQL Queries](sql/queries.sql)
-- 📁 `images/` → dashboard.png
+- 📁 `images/` → ![Bike Sharing Dashboard](dashboard.png)
 
 ---
 
