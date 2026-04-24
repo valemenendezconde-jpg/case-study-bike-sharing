@@ -59,18 +59,18 @@ It includes:
 
 ---
 
+## 📸 Dashboard
+This dashboard highlights key behavioral differences between casual riders and members.
+
+![Bike Sharing Dashboard](images/dashboard.png)
+
+---
+
 ## 💰 Financial & Business Impact
 - Supports **revenue growth strategies** through membership conversion
 - Improves **forecasting accuracy** using usage trends
 - Enables **cost optimization** via better asset allocation
 - Provides insights for **pricing and retention strategies**
-
----
-
-## 📸 Dashboard
-This dashboard highlights key behavioral differences between casual riders and members.
-
-![Bike Sharing Dashboard](images/dashboard.png)
 
 ---
 
@@ -98,11 +98,7 @@ This dashboard highlights key behavioral differences between casual riders and m
 ---
 
 ## 📈 Business Impact
-These strategies can:
-- Increase membership conversion rates
-- Improve revenue predictability
-- Optimize operational efficiency
-- Reduce idle asset capacity
+- Potential to increase membership conversion by targeting high-frequency casual users and optimizing pricing strategies.
 
 ---
 
