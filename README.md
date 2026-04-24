@@ -110,7 +110,6 @@ These strategies can:
 -🔎 SQL Analysis
 Check the full SQL queries used in this project:  
 👉 [View SQL Queries](sql/queries.sql)
-- 📁 `images/` → ![Bike Sharing Dashboard](dashboard.png)
 
 ---
 
