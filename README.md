@@ -2,9 +2,8 @@
 
 ## 👋 About Me
 I’m a Senior Accountant with 6+ years of experience working with US, Australian, and Argentinian companies.  
-I specialize in financial operations and general accounting tasks.
 
-I’m currently expanding into data analytics to leverage financial and operational data for better decision-making.
+I specialize in financial operations and general accounting tasks and I’m currently expanding into data analytics to leverage financial and operational data for better decision-making.
 
 ---
 
