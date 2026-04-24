@@ -71,7 +71,9 @@ It includes:
 ## 📸 Dashboard
 This dashboard highlights key behavioral differences between casual riders and members.
 
-dashboard.png
+images/dashboard.png
+
+![Bike Sharing Dashboard](images/dashboard.png)
 
 ---
 
